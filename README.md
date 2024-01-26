@@ -23,8 +23,8 @@ We have the power to commit changes and deploy on production, don't forget this.
 Is free to use and we all know how to use it.
 
 ## Files
-**README.md** is just an intro, specifics about some topic has to have its own file
-**charter.md** is a document that describes how we function as an (informal) organization.
+- **README.md** is just an intro, specifics about some topic has to have its own file
+- **charter.md** is a document that describes how we function as an (informal) organization.
 
 ## How to use this
 **Issues:**
