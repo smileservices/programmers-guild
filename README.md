@@ -35,3 +35,4 @@ Is free to use and we all know how to use it.
 
 ## Community Threads/discussion on external channels:
 https://www.reddit.com/r/programare/comments/19f05jl/ne_organizam_si_noi_un_pic/
+https://www.reddit.com/r/programare/comments/1ahmuoz/organizare_profesionala_doar_pentru_cei_care_vor/
